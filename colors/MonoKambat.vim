@@ -30,7 +30,7 @@ let g:markdown_fenced_languages =
 \]
 
 " Normal is the background color
-hi Normal ctermfg=231 ctermbg=235 cterm=NONE guifg=#F8F8F2 guibg=#1B1D1E gui=NONE
+hi Normal ctermfg=252 ctermbg=233 cterm=NONE guifg=#F8F8F2 guibg=#1B1D1E gui=NONE
 " Visual is the selected color
 hi Visual ctermfg=255 ctermbg=39 cterm=NONE guifg=White guibg=#00afff gui=NONE
 " Pmenu is the popup autocomplete color
@@ -75,7 +75,6 @@ hi Macro                ctermfg=193     guifg=#C4BE89   gui=none
 hi MatchParen           ctermfg=233     ctermbg=208     cterm=none        guifg=#000000       guibg=#FD971F     gui=none
 hi MoreMsg              ctermfg=229     guifg=#E6DB74
 hi NonText              ctermfg=59      guifg=#465457
-hi Normal               ctermfg=252     ctermbg=233     guifg=#F8F8F2     guibg=#1B1D1E
 hi Number               ctermfg=135     guifg=#AE81FF
 hi Operator             ctermfg=161     guifg=#F92672
 hi PmenuSbar            ctermbg=232     guibg=#080808
